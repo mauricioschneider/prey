@@ -1,0 +1,5 @@
+control-panel:
+  host: solid.preyproject.com
+  protocol: https
+  api_key: API_KEY_HERE
+  device_key: DEVICE_KEY_HERE
